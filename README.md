@@ -2,7 +2,7 @@
 
 Bibliothèque C++ de pricing d'options : formules fermées de Black-Scholes, arbre binomial Cox-Ross-Rubinstein (CRR), Monte Carlo pour les options path-dependent, et options américaines.
 
-**Équipe :** Charles · Clement Romano · Johann Cali · Paul Gouret
+**Équipe :** Charles Boullay · Clement Romano · Johann Cali · Paul Gouret
 **Deadline :** 22 décembre 2026, 11h00
 
 ---
